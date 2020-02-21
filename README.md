@@ -2,5 +2,4 @@
 
 ## Field Museum of Natural History
 
-
 This repository contains configuration to help Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) find and index biotic association records in the biological collections of the [Field Museum of Natural History](https://fieldmuseum.org) via https://fmipt.fieldmuseum.org/ipt/rss.do .
