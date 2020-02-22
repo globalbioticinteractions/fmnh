@@ -4,6 +4,6 @@
   "resources": {
     "rss": "https://fmipt.fieldmuseum.org/ipt/rss.do"
   },
-  "hasDependencies" : false,
+  "hasDependencies" : true,
   "shouldResolveReferences": false
 }
