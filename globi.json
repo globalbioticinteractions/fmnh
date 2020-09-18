@@ -1,9 +1,7 @@
 { 
   "format": "rss",
   "citation": "Field Museum of Natural History IPT",
-  "resources": {
-    "rss": "https://fmipt.fieldmuseum.org/ipt/rss.do"
-  },
+  "url": "https://fmipt.fieldmuseum.org/ipt/rss.do",
   "hasDependencies" : true,
   "shouldResolveReferences": false
 }
