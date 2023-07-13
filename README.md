@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/globalbioticinteractions/fmnh.svg)](https://app.travis-ci.com/globalbioticinteractions/fmnh) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/fmnh)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/fmnh) 
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/fmnh)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/fmnh) 
 
 ## Field Museum of Natural History
 
